@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB-01\1.BaiTapTrenLop\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB-01\1.BaiTapTrenLop\Bai2\bin\Debug\Bai2.exe
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB-01\1.BaiTapTrenLop\Bai2\bin\Debug\Bai2.pdb
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB-01\1.BaiTapTrenLop\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB-01\1.BaiTapTrenLop\Bai2\obj\Debug\Bai2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB-01\1.BaiTapTrenLop\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB-01\1.BaiTapTrenLop\Bai2\obj\Debug\Bai2.exe
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB-01\1.BaiTapTrenLop\Bai2\obj\Debug\Bai2.pdb
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB01-Nguyễn Phan Trà My-47.01.104.132\LAB-01\1.BaiTapTrenLop\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB01-Nguyễn Phan Trà My-47.01.104.132\LAB-01\1.BaiTapTrenLop\Bai2\bin\Debug\Bai2.exe
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB01-Nguyễn Phan Trà My-47.01.104.132\LAB-01\1.BaiTapTrenLop\Bai2\bin\Debug\Bai2.pdb
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB01-Nguyễn Phan Trà My-47.01.104.132\LAB-01\1.BaiTapTrenLop\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB01-Nguyễn Phan Trà My-47.01.104.132\LAB-01\1.BaiTapTrenLop\Bai2\obj\Debug\Bai2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB01-Nguyễn Phan Trà My-47.01.104.132\LAB-01\1.BaiTapTrenLop\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB01-Nguyễn Phan Trà My-47.01.104.132\LAB-01\1.BaiTapTrenLop\Bai2\obj\Debug\Bai2.exe
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB01-Nguyễn Phan Trà My-47.01.104.132\LAB-01\1.BaiTapTrenLop\Bai2\obj\Debug\Bai2.pdb

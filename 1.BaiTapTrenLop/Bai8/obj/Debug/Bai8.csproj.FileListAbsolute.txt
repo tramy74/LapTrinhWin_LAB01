@@ -1,0 +1,8 @@
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB-01\1.BaiTapTrenLop\Bai8\bin\Debug\Bai8.exe.config
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB-01\1.BaiTapTrenLop\Bai8\bin\Debug\Bai8.exe
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB-01\1.BaiTapTrenLop\Bai8\bin\Debug\Bai8.pdb
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB-01\1.BaiTapTrenLop\Bai8\obj\Debug\Bai8.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB-01\1.BaiTapTrenLop\Bai8\obj\Debug\Bai8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB-01\1.BaiTapTrenLop\Bai8\obj\Debug\Bai8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB-01\1.BaiTapTrenLop\Bai8\obj\Debug\Bai8.exe
+C:\Users\Admin\OneDrive\Máy tính\lập trình\Lập Trình trên Windown\LAB-01\1.BaiTapTrenLop\Bai8\obj\Debug\Bai8.pdb
